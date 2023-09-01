@@ -1,4 +1,4 @@
-# CircleComFundWallets
+# Scripts to fund wallet  (USDC) https://www.circle.com
 Fund circle.com wallets(USDC) creditcard form.
 
 To update openpgp public key use <updatephpkey.php> runing from console.
